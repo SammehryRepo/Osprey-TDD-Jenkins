@@ -1,0 +1,27 @@
+2024-04-04 21:32:27.295 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/shamsmehry/Desktop/Osprey/tek-osprey-retail-tdd-lab/src/test/resources/runner/runner.xml"
+2024-04-04 21:32:27.578 [main] INFO  tek.tdd.base.BaseSetup - Configuration File Path /Users/shamsmehry/Desktop/Osprey/tek-osprey-retail-tdd-lab/src/test/resources/config/application-config.properties
+2024-04-04 21:32:28.162 [main] DEBUG tek.tdd.base.BaseSetup - Retrieving Property for key ui.url
+2024-04-04 21:32:28.163 [main] DEBUG tek.tdd.base.BaseSetup - Property Value https://retail.tekschool-students.com/
+2024-04-04 21:32:28.163 [main] DEBUG tek.tdd.base.BaseSetup - Retrieving Property for key ui.browser
+2024-04-04 21:32:28.163 [main] DEBUG tek.tdd.base.BaseSetup - Property Value chrome
+2024-04-04 21:32:28.164 [main] DEBUG tek.tdd.base.BaseSetup - Retrieving Property for key ui.isHeadless
+2024-04-04 21:32:28.164 [main] DEBUG tek.tdd.base.BaseSetup - Property Value true
+2024-04-04 21:32:31.445 [main] INFO  tek.tdd.base.BaseSetup - Configuration File Path /Users/shamsmehry/Desktop/Osprey/tek-osprey-retail-tdd-lab/src/test/resources/config/application-config.properties
+2024-04-04 21:32:31.577 [main] DEBUG tek.tdd.base.BaseSetup - Closing Browser
+2024-04-04 21:32:31.692 [main] DEBUG tek.tdd.base.BaseSetup - Retrieving Property for key ui.url
+2024-04-04 21:32:31.692 [main] DEBUG tek.tdd.base.BaseSetup - Property Value https://retail.tekschool-students.com/
+2024-04-04 21:32:31.692 [main] DEBUG tek.tdd.base.BaseSetup - Retrieving Property for key ui.browser
+2024-04-04 21:32:31.693 [main] DEBUG tek.tdd.base.BaseSetup - Property Value chrome
+2024-04-04 21:32:31.693 [main] DEBUG tek.tdd.base.BaseSetup - Retrieving Property for key ui.isHeadless
+2024-04-04 21:32:31.693 [main] DEBUG tek.tdd.base.BaseSetup - Property Value true
+2024-04-04 21:32:33.875 [main] INFO  tek.tdd.base.BaseSetup - Configuration File Path /Users/shamsmehry/Desktop/Osprey/tek-osprey-retail-tdd-lab/src/test/resources/config/application-config.properties
+2024-04-04 21:32:34.148 [main] INFO  tek.tdd.utilities.SeleniumUtilities - Clicking on Element [[ChromeDriver: chrome-headless-shell on mac (25c56e764f07b5b4ce8a102ba945d0f5)] -> id: signinLink]
+2024-04-04 21:32:34.531 [main] INFO  tek.tdd.utilities.SeleniumUtilities - Send Key to Element [[ChromeDriver: chrome-headless-shell on mac (25c56e764f07b5b4ce8a102ba945d0f5)] -> id: email] with Value ospreylab_session@tekschool.us
+2024-04-04 21:32:34.915 [main] INFO  tek.tdd.utilities.SeleniumUtilities - Send Key to Element [[ChromeDriver: chrome-headless-shell on mac (25c56e764f07b5b4ce8a102ba945d0f5)] -> id: password] with Value 12345@Tek
+2024-04-04 21:32:35.072 [main] INFO  tek.tdd.utilities.SeleniumUtilities - Clicking on Element [[ChromeDriver: chrome-headless-shell on mac (25c56e764f07b5b4ce8a102ba945d0f5)] -> id: loginBtn]
+2024-04-04 21:32:35.201 [main] INFO  tek.tdd.utilities.SeleniumUtilities - Checking Element is Displayed [[ChromeDriver: chrome-headless-shell on mac (25c56e764f07b5b4ce8a102ba945d0f5)] -> id: loginBtn]
+2024-04-04 21:32:35.470 [main] INFO  tek.tdd.utilities.SeleniumUtilities - Clicking on Element [[ChromeDriver: chrome-headless-shell on mac (25c56e764f07b5b4ce8a102ba945d0f5)] -> id: accountLink]
+2024-04-04 21:32:35.719 [main] INFO  tek.tdd.utilities.SeleniumUtilities - Clearing the input field and entering new value: OsreyLabSession
+2024-04-04 21:32:36.026 [main] INFO  tek.tdd.utilities.SeleniumUtilities - Clearing the input field and entering new value: 202-543-4563
+2024-04-04 21:32:36.279 [main] INFO  tek.tdd.utilities.SeleniumUtilities - Checking Element is Displayed [[ChromeDriver: chrome-headless-shell on mac (25c56e764f07b5b4ce8a102ba945d0f5)] -> id: personalUpdateBtn]
+2024-04-04 21:32:36.353 [main] DEBUG tek.tdd.base.BaseSetup - Closing Browser

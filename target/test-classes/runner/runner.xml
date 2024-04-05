@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Osprey TDD Framework">
+    <test name="Running with Class">
+        <packages>
+            <package name="tek.tdd.test.adhoc"></package>
+        </packages>
+    </test>
+
+</suite>

@@ -1,0 +1,5 @@
+tek/tdd/base/BaseSetup.class
+tek/tdd/pages/ProfileUpdatePage.class
+tek/tdd/utilities/SeleniumUtilities.class
+tek/tdd/base/BaseUITests.class
+tek/tdd/test/adhoc/ProfileUpdate.class
